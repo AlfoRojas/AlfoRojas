@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlfoRojas
 - 👀 I’m interested in aircrafts, robotics and artificial intelligence
-- 🌱 I’m currently learning Industrial Engineering at udd
+- 🌱 I’m currently building software to control and manage drones & robots to do logistics
 - 💞️ I’m looking to collaborate on robotics and artificial intelligence research
-- 📫 How to reach me @alforojasss on instagram and twitter, send a dm
+- 📫 How to reach me alforojasss in X, send a dm
 
 <!---
 AlfoRojas/AlfoRojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
